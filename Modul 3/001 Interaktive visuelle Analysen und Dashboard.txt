@@ -1,0 +1,18 @@
+Welcome to the Interactive Visual Analytics
+and Dashboard module. You will use this to build a Dashboard for
+stakeholders. Interactive visual analytics enables users
+to explore and manipulate data in an interactive and real-time way. Common interactions including zoom-in and
+zoom-out, pan, filter, search, and link. With interactive visual analytics, users could
+find visual patterns faster and more effectively. Instead of presenting your findings in static
+graphs, interactive data visualization, or dashboarding, can always tell a more appealing
+story. In this module, you will be using Folium and
+Plotly Dash to build an interactive map and dashboard to perform interactive visual analytics. The first part of this module will be focused
+on analyzing launch site geo and proximities with Folium. We will first mark the launch site locations
+and their close proximities on an interactive map. Then, we can explore the map with those markers
+and try to discover any patterns from them. Finally, we should be able to explain how
+to choose an optimal launch site. Next, you will be building a dashboard application
+with the Python Plotly Dash package. This dashboard application contains input
+components such as a dropdown list and a range slider to interact with a pie chart and a
+scatter point chart. You will be guided to build this dashboard
+application in an instructional lab. After the dashboard is built, you can use
+it to find more insights from the SpaceX dataset more easily than with static graphs.

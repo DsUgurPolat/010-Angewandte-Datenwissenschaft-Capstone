@@ -1,0 +1,15 @@
+In diesem Video werden wir Exploratory überprüfen
+Datenanalyse. Explorative Datenanalyse ist der erste Schritt
+von jedem Data-Science-Projekt. Im ersten Labor wirst du einige Explorationsübungen durchführen
+Datenanalyse mithilfe einer Datenbank. Im zweiten Labor werden Sie sehen, ob die Daten
+kann verwendet werden, um automatisch zu bestimmen, ob die zweite Stufe des Falcon 9 landen wird. Einige Attribute können verwendet werden, um festzustellen, ob
+Die erste Stufe kann wiederverwendet werden. Wir können diese Funktionen dann mit der Maschine verwenden
+lernen, automatisch vorherzusagen, ob die erste Stufe erfolgreich landen kann, zum Beispiel. Sie können beobachten, dass die Erfolgsquote seit
+2013 hat sich verbessert. Wir können dies über die Startnummer als Funktion integrieren. Wir sehen, dass verschiedene Startplätze unterschiedliche
+Erfolgsquoten. Daher können sie verwendet werden, um zu bestimmen
+ob die erste Stufe erfolgreich landen wird. CCAFS LC-40 hat eine Erfolgsquote von 60%, während KSC LC-39A und VAFB SLC 4E haben eine Erfolgsquote von rund 77%. Durch die Kombination von Attributen erhalten wir auch mehr Informationen. Wenn wir das Ergebnis der Landeergebnisse überlagern
+als Farbe sehen wir, dass CCAFS LC-40 eine Erfolgsquote hat
+von 60%, aber wenn die Masse über 10.000 kg liegt, beträgt die Erfolgsquote 100%. Daher werden wir mehrere Funktionen kombinieren. Im Labor bestimmen Sie, welche Eigenschaften
+sind mit erfolgreichen Landungen korreliert. Die kategorialen Variablen werden konvertiert
+Verwendung einer Hot-Encodierung, Aufbereitung der Daten für ein maschinelles Lernmodell, das vorhersagen kann
+ob die erste Stufe erfolgreich landen wird.
